@@ -1,9 +1,10 @@
 * {
     box-sizing: border-box;
 }
+/* saved code #005EB8*/
 div.timeline h2{
   text-align: center;
-  color: #005EB8;
+  color: blue;
   font-weight: bold;
 }
 
