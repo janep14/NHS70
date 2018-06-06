@@ -6,11 +6,11 @@ div.timeline h2{
   color: #005EB8;
   font-weight: bold;
 }
-
+/* remove this
 body {
     background-color: #E8EDEE;
     font-family: Frutiger;
-}
+} */
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
